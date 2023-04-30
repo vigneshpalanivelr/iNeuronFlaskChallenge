@@ -1,0 +1,7 @@
+beautifulsoup4==4.12.2
+Flask==2.2.2
+Flask_PyMongo==2.3.0
+flask_sqlalchemy==3.0.3
+fpdf2==2.7.4
+python-dotenv==1.0.0
+Requests==2.31.0

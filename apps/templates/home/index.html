@@ -1,0 +1,64 @@
+{% extends 'layouts/base.html' %}
+
+{% block content %}
+
+<div class="container">
+  <div class="row justify-content-md-center">
+    {% for bundle, count in bundlecount.items() %}
+    <div class="col-md-auto">
+      <div class="card mt-5 text-dark shadow-lg" style="width: 15rem; height: 7rem;">
+        <div class="card-header" style="background-color: #ece685;">{{ bundle }}</div>
+        <div class="card-body" style="background-color: #e6f1b7;">
+          <p class="card-text">Course Count: {{ count }}</p>
+        </div>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</div>
+<div class="div container mt-5">
+  <div class="panel panel-default shadow-lg">
+    <div class="panel-heading">
+      <p class="text-white" style="font-size: larger; font-weight: bolder;text-align: center;">Course Categories </p> 
+    </div>
+    <div class="panel-body">
+      <table class="table table-condensed table-striped">
+        <thead>
+          <tr class="text-white">
+            <th scope="col">#</th>
+            <th scope="col">Category</th>
+            <th scope="col">Subcategory</th>
+            <th scope="col">Link</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for category in categorydata %}
+          <tr class="text-white">
+            <th scope="row">{{category['category-number']}}</th>
+            <td>{{category['category-title']}}</td>
+            <td>
+              <div class="dropdown">
+                <button class="btn btn-secondary dropdown-toggle text-dark" type="button" id="dropdownMenuButton1"
+                  data-bs-toggle="dropdown" aria-expanded="false" style="background: linear-gradient(to bottom right, #00ccff 0%, #ccff33 100%);">
+                  SubCategory
+                </button>
+                <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1" role="menu">
+                  {% for sub_cat in category['course-subcategory'] %}
+                  <li><a class="dropdown-item"
+                      href="/category-courses/{{sub_cat['subcategory-id']}}">{{sub_cat['subcategory-title']}}</a></li>
+                  {% endfor %}
+                </ul>
+              </div>
+            </td>
+            <td>
+              <a class="btn btn-primary text-dark" href="{{category['category-url']}}" role="link" target=”_blank”
+                style="background: linear-gradient(to bottom right, #00ccff 0%, #ccff33 100%);">View</a>
+            </td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>
+{% endblock content %}

@@ -1,0 +1,1270 @@
+[
+    {
+        "category-number": 1,
+        "category-id": "62cd958353f5fe61566b9ae4",
+        "category-title": "DATA SCIENCE",
+        "category-url": "https://www.ineuron.ai/category/DATA-SCIENCE",
+        "course-subcategory": [
+            {
+                "subcategory-no": 1,
+                "subcategory-id": "62cd959d53f5fe14766b9ae5",
+                "subcategory-title": "FULL STACK DATA SCIENCE",
+                "subcategory-url": "https://www.ineuron.ai/category/FULL-STACK-DATA-SCIENCE"
+            },
+            {
+                "subcategory-no": 2,
+                "subcategory-id": "62cd95a953f5fe3dc56b9ae6",
+                "subcategory-title": "PYTHON",
+                "subcategory-url": "https://www.ineuron.ai/category/PYTHON"
+            },
+            {
+                "subcategory-no": 3,
+                "subcategory-id": "62cd95b453f5fe0a5c6b9ae7",
+                "subcategory-title": "PYTHON PROJECT",
+                "subcategory-url": "https://www.ineuron.ai/category/PYTHON-PROJECT"
+            },
+            {
+                "subcategory-no": 4,
+                "subcategory-id": "62cd95be53f5fe3b956b9ae8",
+                "subcategory-title": "PYTHON INTERVIEW",
+                "subcategory-url": "https://www.ineuron.ai/category/PYTHON-INTERVIEW"
+            },
+            {
+                "subcategory-no": 5,
+                "subcategory-id": "62cd95c753f5fe3cc16b9ae9",
+                "subcategory-title": "STATS",
+                "subcategory-url": "https://www.ineuron.ai/category/STATS"
+            },
+            {
+                "subcategory-no": 6,
+                "subcategory-id": "62cd960353f5feb7d96b9aea",
+                "subcategory-title": "STATS INTERVIEW",
+                "subcategory-url": "https://www.ineuron.ai/category/STATS-INTERVIEW"
+            },
+            {
+                "subcategory-no": 7,
+                "subcategory-id": "62cd960b53f5fec5156b9aeb",
+                "subcategory-title": "MACHINE LEARNING",
+                "subcategory-url": "https://www.ineuron.ai/category/MACHINE-LEARNING"
+            },
+            {
+                "subcategory-no": 8,
+                "subcategory-id": "62cd961453f5fe4b636b9aec",
+                "subcategory-title": "MACHINE LEARNING PROJECT",
+                "subcategory-url": "https://www.ineuron.ai/category/MACHINE-LEARNING-PROJECT"
+            },
+            {
+                "subcategory-no": 9,
+                "subcategory-id": "62cd961c53f5fe2c6d6b9aed",
+                "subcategory-title": "MACHINE LEARNING INTERVIEW",
+                "subcategory-url": "https://www.ineuron.ai/category/MACHINE-LEARNING-INTERVIEW"
+            },
+            {
+                "subcategory-no": 10,
+                "subcategory-id": "62cd962953f5fefb916b9aee",
+                "subcategory-title": "DEEP LEARNING",
+                "subcategory-url": "https://www.ineuron.ai/category/DEEP-LEARNING"
+            },
+            {
+                "subcategory-no": 11,
+                "subcategory-id": "62cd963253f5fe452a6b9aef",
+                "subcategory-title": "DEEP LEARNING PROJECT",
+                "subcategory-url": "https://www.ineuron.ai/category/DEEP-LEARNING-PROJECT"
+            },
+            {
+                "subcategory-no": 12,
+                "subcategory-id": "62cd963b53f5fef2fa6b9af0",
+                "subcategory-title": "DEEP LEARNING INTERVIEW",
+                "subcategory-url": "https://www.ineuron.ai/category/DEEP-LEARNING-INTERVIEW"
+            },
+            {
+                "subcategory-no": 13,
+                "subcategory-id": "62cd964453f5fed4586b9af1",
+                "subcategory-title": "NLP",
+                "subcategory-url": "https://www.ineuron.ai/category/NLP"
+            },
+            {
+                "subcategory-no": 14,
+                "subcategory-id": "62cd964d53f5feaa846b9af2",
+                "subcategory-title": "NLP PROJECT",
+                "subcategory-url": "https://www.ineuron.ai/category/NLP-PROJECT"
+            },
+            {
+                "subcategory-no": 15,
+                "subcategory-id": "62cd965553f5fe5c0e6b9af3",
+                "subcategory-title": "NLP INTERVIEW",
+                "subcategory-url": "https://www.ineuron.ai/category/NLP-INTERVIEW"
+            },
+            {
+                "subcategory-no": 16,
+                "subcategory-id": "62cd966453f5fe5b3e6b9af4",
+                "subcategory-title": "COMPUTER VISION",
+                "subcategory-url": "https://www.ineuron.ai/category/COMPUTER-VISION"
+            },
+            {
+                "subcategory-no": 17,
+                "subcategory-id": "62cd966b53f5feb5986b9af5",
+                "subcategory-title": "COMPUTER VISION PROJECT",
+                "subcategory-url": "https://www.ineuron.ai/category/COMPUTER-VISION-PROJECT"
+            },
+            {
+                "subcategory-no": 18,
+                "subcategory-id": "62cd967453f5fe1f1d6b9af6",
+                "subcategory-title": "COMPUTER VISION INTERVIEW",
+                "subcategory-url": "https://www.ineuron.ai/category/COMPUTER-VISION-INTERVIEW"
+            },
+            {
+                "subcategory-no": 19,
+                "subcategory-id": "62cd967d53f5fe6a446b9af7",
+                "subcategory-title": "REINFORCEMENT LEARNING",
+                "subcategory-url": "https://www.ineuron.ai/category/REINFORCEMENT-LEARNING"
+            },
+            {
+                "subcategory-no": 20,
+                "subcategory-id": "62cd968753f5fe395a6b9af8",
+                "subcategory-title": "CHATBOT",
+                "subcategory-url": "https://www.ineuron.ai/category/CHATBOT"
+            },
+            {
+                "subcategory-no": 21,
+                "subcategory-id": "62cd968f53f5fe12cf6b9af9",
+                "subcategory-title": "MLOPS",
+                "subcategory-url": "https://www.ineuron.ai/category/MLOPS"
+            },
+            {
+                "subcategory-no": 22,
+                "subcategory-id": "62cd969753f5fe6d666b9afa",
+                "subcategory-title": "MLOPS PROJECT",
+                "subcategory-url": "https://www.ineuron.ai/category/MLOPS-PROJECT"
+            },
+            {
+                "subcategory-no": 23,
+                "subcategory-id": "62cd96a053f5fe55126b9afb",
+                "subcategory-title": "MLOPS INTERVIEW PREPARATION",
+                "subcategory-url": "https://www.ineuron.ai/category/MLOPS-INTERVIEW-PREPARATION"
+            }
+        ]
+    },
+    {
+        "category-number": 2,
+        "category-id": "62cd96ce53f5fe49c46b9afc",
+        "category-title": "BIG DATA",
+        "category-url": "https://www.ineuron.ai/category/BIG-DATA",
+        "course-subcategory": [
+            {
+                "subcategory-no": 1,
+                "subcategory-id": "62cd971353f5fe38df6b9afd",
+                "subcategory-title": "BIG DATA MASTERS",
+                "subcategory-url": "https://www.ineuron.ai/category/BIG-DATA-MASTERS"
+            },
+            {
+                "subcategory-no": 2,
+                "subcategory-id": "62cd972153f5fe08c46b9afe",
+                "subcategory-title": "TECH STACK",
+                "subcategory-url": "https://www.ineuron.ai/category/TECH-STACK"
+            },
+            {
+                "subcategory-no": 3,
+                "subcategory-id": "62cd972b53f5fe3f986b9aff",
+                "subcategory-title": "BIG DATA ON CLOUD",
+                "subcategory-url": "https://www.ineuron.ai/category/BIG-DATA-ON-CLOUD"
+            },
+            {
+                "subcategory-no": 4,
+                "subcategory-id": "62cd973453f5fe061c6b9b00",
+                "subcategory-title": "BIG DATA PROJECTS",
+                "subcategory-url": "https://www.ineuron.ai/category/BIG-DATA-PROJECTS"
+            },
+            {
+                "subcategory-no": 5,
+                "subcategory-id": "62cd973e53f5fecaf56b9b01",
+                "subcategory-title": "BIG DATA INTERVIEW",
+                "subcategory-url": "https://www.ineuron.ai/category/BIG-DATA-INTERVIEW"
+            }
+        ]
+    },
+    {
+        "category-number": 3,
+        "category-id": "62cd975753f5feb4ae6b9b02",
+        "category-title": "DATA ANALYTICS",
+        "category-url": "https://www.ineuron.ai/category/DATA-ANALYTICS",
+        "course-subcategory": [
+            {
+                "subcategory-no": 1,
+                "subcategory-id": "62cd977553f5fe52166b9b03",
+                "subcategory-title": "BUSINESS ANALYTICS MASTERS",
+                "subcategory-url": "https://www.ineuron.ai/category/BUSINESS-ANALYTICS-MASTERS"
+            },
+            {
+                "subcategory-no": 2,
+                "subcategory-id": "62cd977d53f5fe167f6b9b04",
+                "subcategory-title": "POWER BI",
+                "subcategory-url": "https://www.ineuron.ai/category/POWER-BI"
+            },
+            {
+                "subcategory-no": 3,
+                "subcategory-id": "62cd978653f5fe0ce86b9b05",
+                "subcategory-title": "POWER BI INTERVIEW QUESTIONS",
+                "subcategory-url": "https://www.ineuron.ai/category/POWER-BI-INTERVIEW-QUESTIONS"
+            },
+            {
+                "subcategory-no": 4,
+                "subcategory-id": "62cd978d53f5fe65846b9b06",
+                "subcategory-title": "POWER BI PROJECTS",
+                "subcategory-url": "https://www.ineuron.ai/category/POWER-BI-PROJECTS"
+            },
+            {
+                "subcategory-no": 5,
+                "subcategory-id": "62cd984253f5fea11e6b9b08",
+                "subcategory-title": "TABLEAU",
+                "subcategory-url": "https://www.ineuron.ai/category/TABLEAU"
+            },
+            {
+                "subcategory-no": 6,
+                "subcategory-id": "62cd984b53f5fe54ed6b9b09",
+                "subcategory-title": "TABLEAU INTERVIEW QUESTIONS",
+                "subcategory-url": "https://www.ineuron.ai/category/TABLEAU-INTERVIEW-QUESTIONS"
+            },
+            {
+                "subcategory-no": 7,
+                "subcategory-id": "62cd985753f5fe30276b9b0a",
+                "subcategory-title": "TABLEAU PROJECTS",
+                "subcategory-url": "https://www.ineuron.ai/category/TABLEAU-PROJECTS"
+            },
+            {
+                "subcategory-no": 8,
+                "subcategory-id": "62cd986353f5fe3f0e6b9b0b",
+                "subcategory-title": "SQL",
+                "subcategory-url": "https://www.ineuron.ai/category/SQL"
+            },
+            {
+                "subcategory-no": 9,
+                "subcategory-id": "62cd986c53f5fe6dc36b9b0c",
+                "subcategory-title": "SQL INTERVIEW QUESTIONS",
+                "subcategory-url": "https://www.ineuron.ai/category/SQL-INTERVIEW-QUESTIONS"
+            },
+            {
+                "subcategory-no": 10,
+                "subcategory-id": "62cd987653f5fe765b6b9b0d",
+                "subcategory-title": "EXCEL",
+                "subcategory-url": "https://www.ineuron.ai/category/EXCEL"
+            },
+            {
+                "subcategory-no": 11,
+                "subcategory-id": "62cd987f53f5fe9e486b9b0e",
+                "subcategory-title": "EXCEL INTERVIEW PREPARATION",
+                "subcategory-url": "https://www.ineuron.ai/category/EXCEL-INTERVIEW-PREPARATION"
+            },
+            {
+                "subcategory-no": 12,
+                "subcategory-id": "62cd988853f5fe042e6b9b0f",
+                "subcategory-title": "DASHBOARDING",
+                "subcategory-url": "https://www.ineuron.ai/category/DASHBOARDING"
+            }
+        ]
+    },
+    {
+        "category-number": 4,
+        "category-id": "62cd989f53f5fe2d946b9b10",
+        "category-title": "WEB DEVELOPEMENT",
+        "category-url": "https://www.ineuron.ai/category/WEB-DEVELOPEMENT",
+        "course-subcategory": [
+            {
+                "subcategory-no": 1,
+                "subcategory-id": "62cd98c753f5fe24956b9b11",
+                "subcategory-title": "FULL STACK WEB DEVELOPMENT",
+                "subcategory-url": "https://www.ineuron.ai/category/FULL-STACK-WEB-DEVELOPMENT"
+            },
+            {
+                "subcategory-no": 2,
+                "subcategory-id": "62cd98d053f5fe1def6b9b12",
+                "subcategory-title": "JAVASCRIPT",
+                "subcategory-url": "https://www.ineuron.ai/category/JAVASCRIPT"
+            },
+            {
+                "subcategory-no": 3,
+                "subcategory-id": "62cd98d953f5fe507c6b9b13",
+                "subcategory-title": "NODE JS",
+                "subcategory-url": "https://www.ineuron.ai/category/NODE-JS"
+            },
+            {
+                "subcategory-no": 4,
+                "subcategory-id": "62cd98e453f5fe31336b9b14",
+                "subcategory-title": "ANGULAR JS",
+                "subcategory-url": "https://www.ineuron.ai/category/ANGULAR-JS"
+            },
+            {
+                "subcategory-no": 5,
+                "subcategory-id": "62cd98f253f5fe6a9e6b9b15",
+                "subcategory-title": "CSS",
+                "subcategory-url": "https://www.ineuron.ai/category/CSS"
+            },
+            {
+                "subcategory-no": 6,
+                "subcategory-id": "62cd990553f5fec7ea6b9b16",
+                "subcategory-title": "HTML",
+                "subcategory-url": "https://www.ineuron.ai/category/HTML"
+            },
+            {
+                "subcategory-no": 7,
+                "subcategory-id": "62cd990f53f5fe0a5d6b9b17",
+                "subcategory-title": "PHP",
+                "subcategory-url": "https://www.ineuron.ai/category/PHP"
+            },
+            {
+                "subcategory-no": 8,
+                "subcategory-id": "62cd991a53f5fe0df66b9b18",
+                "subcategory-title": "REACT",
+                "subcategory-url": "https://www.ineuron.ai/category/REACT"
+            },
+            {
+                "subcategory-no": 9,
+                "subcategory-id": "62cd992453f5fe29296b9b19",
+                "subcategory-title": "VUE JS",
+                "subcategory-url": "https://www.ineuron.ai/category/VUE-JS"
+            },
+            {
+                "subcategory-no": 10,
+                "subcategory-id": "62cd993853f5fe0dc36b9b1a",
+                "subcategory-title": "WEB DEVELOPMENT PROJECT",
+                "subcategory-url": "https://www.ineuron.ai/category/WEB-DEVELOPMENT-PROJECT"
+            },
+            {
+                "subcategory-no": 11,
+                "subcategory-id": "62cd994253f5fe4e456b9b1b",
+                "subcategory-title": "DJANGO",
+                "subcategory-url": "https://www.ineuron.ai/category/DJANGO"
+            },
+            {
+                "subcategory-no": 12,
+                "subcategory-id": "62cd994c53f5fe16556b9b1c",
+                "subcategory-title": "BOOTSTRAP",
+                "subcategory-url": "https://www.ineuron.ai/category/BOOTSTRAP"
+            },
+            {
+                "subcategory-no": 13,
+                "subcategory-id": "62cd995653f5fe242d6b9b1d",
+                "subcategory-title": "FAST API",
+                "subcategory-url": "https://www.ineuron.ai/category/FAST-API"
+            },
+            {
+                "subcategory-no": 14,
+                "subcategory-id": "62cd996353f5fe1d196b9b1e",
+                "subcategory-title": "WEB DEVELOPEMENT INTERVIEW",
+                "subcategory-url": "https://www.ineuron.ai/category/WEB-DEVELOPEMENT-INTERVIEW"
+            },
+            {
+                "subcategory-no": 15,
+                "subcategory-id": "62cd997253f5fe5bdd6b9b1f",
+                "subcategory-title": "NEXTJS",
+                "subcategory-url": "https://www.ineuron.ai/category/NEXTJS"
+            },
+            {
+                "subcategory-no": 16,
+                "subcategory-id": "62cd997d53f5fe66166b9b20",
+                "subcategory-title": "UI_UX",
+                "subcategory-url": "https://www.ineuron.ai/category/UI_UX"
+            }
+        ]
+    },
+    {
+        "category-number": 5,
+        "category-id": "62cd99ab53f5fe2bf26b9b21",
+        "category-title": "MOBILE DEVELOPEMENT",
+        "category-url": "https://www.ineuron.ai/category/MOBILE-DEVELOPEMENT",
+        "course-subcategory": [
+            {
+                "subcategory-no": 1,
+                "subcategory-id": "62cd99dd53f5fe7a916b9b22",
+                "subcategory-title": "REACT NATIVE",
+                "subcategory-url": "https://www.ineuron.ai/category/REACT-NATIVE"
+            },
+            {
+                "subcategory-no": 2,
+                "subcategory-id": "62cd99e753f5fec54a6b9b23",
+                "subcategory-title": "ANDROID",
+                "subcategory-url": "https://www.ineuron.ai/category/ANDROID"
+            },
+            {
+                "subcategory-no": 3,
+                "subcategory-id": "62cd99f053f5fe23be6b9b24",
+                "subcategory-title": "KOTLIN",
+                "subcategory-url": "https://www.ineuron.ai/category/KOTLIN"
+            },
+            {
+                "subcategory-no": 4,
+                "subcategory-id": "62cd99f953f5fe7a0d6b9b25",
+                "subcategory-title": "IOS",
+                "subcategory-url": "https://www.ineuron.ai/category/IOS"
+            },
+            {
+                "subcategory-no": 5,
+                "subcategory-id": "62cd9a0353f5fefafe6b9b26",
+                "subcategory-title": "REACT NATIVE PROJECT",
+                "subcategory-url": "https://www.ineuron.ai/category/REACT-NATIVE-PROJECT"
+            },
+            {
+                "subcategory-no": 6,
+                "subcategory-id": "62cd9a1553f5fe0d3e6b9b27",
+                "subcategory-title": "ANDROID PROJECT",
+                "subcategory-url": "https://www.ineuron.ai/category/ANDROID-PROJECT"
+            },
+            {
+                "subcategory-no": 7,
+                "subcategory-id": "62cd9a2253f5fef8e96b9b28",
+                "subcategory-title": "KOTLIN PROJECT",
+                "subcategory-url": "https://www.ineuron.ai/category/KOTLIN-PROJECT"
+            },
+            {
+                "subcategory-no": 8,
+                "subcategory-id": "62cd9a2b53f5fe7c076b9b29",
+                "subcategory-title": "IOS PROJECT",
+                "subcategory-url": "https://www.ineuron.ai/category/IOS-PROJECT"
+            },
+            {
+                "subcategory-no": 9,
+                "subcategory-id": "62cd9a3753f5fee4876b9b2a",
+                "subcategory-title": "REACT NATIVE INTERVIEW PREPARATION",
+                "subcategory-url": "https://www.ineuron.ai/category/REACT-NATIVE-INTERVIEW-PREPARATION"
+            },
+            {
+                "subcategory-no": 10,
+                "subcategory-id": "62cd9a4a53f5feb8b16b9b2b",
+                "subcategory-title": "ANDRIOID INTERVIEW PREPARATION",
+                "subcategory-url": "https://www.ineuron.ai/category/ANDRIOID-INTERVIEW-PREPARATION"
+            },
+            {
+                "subcategory-no": 11,
+                "subcategory-id": "62cd9a5253f5feaf866b9b2c",
+                "subcategory-title": "KOTLIN INTERVIEW PREPARATION",
+                "subcategory-url": "https://www.ineuron.ai/category/KOTLIN-INTERVIEW-PREPARATION"
+            },
+            {
+                "subcategory-no": 12,
+                "subcategory-id": "62cd9a5b53f5fe91db6b9b2d",
+                "subcategory-title": "IOS INTERVIEW PREPARATION",
+                "subcategory-url": "https://www.ineuron.ai/category/IOS-INTERVIEW-PREPARATION"
+            },
+            {
+                "subcategory-no": 13,
+                "subcategory-id": "62cda86a53f5feb2406b9bb5",
+                "subcategory-title": "DART",
+                "subcategory-url": "https://www.ineuron.ai/category/DART"
+            },
+            {
+                "subcategory-no": 14,
+                "subcategory-id": "62cda86f53f5feebd86b9bb6",
+                "subcategory-title": "FLUTTER",
+                "subcategory-url": "https://www.ineuron.ai/category/FLUTTER"
+            }
+        ]
+    },
+    {
+        "category-number": 6,
+        "category-id": "62cd9a7753f5feae2f6b9b2e",
+        "category-title": "BLOCKCHAIN",
+        "category-url": "https://www.ineuron.ai/category/BLOCKCHAIN",
+        "course-subcategory": [
+            {
+                "subcategory-no": 1,
+                "subcategory-id": "62cd9a9553f5fea7056b9b2f",
+                "subcategory-title": "BLOCKCHAIN MASTERS",
+                "subcategory-url": "https://www.ineuron.ai/category/BLOCKCHAIN-MASTERS"
+            },
+            {
+                "subcategory-no": 2,
+                "subcategory-id": "62cd9a9f53f5fe82346b9b30",
+                "subcategory-title": "NFT",
+                "subcategory-url": "https://www.ineuron.ai/category/NFT"
+            },
+            {
+                "subcategory-no": 3,
+                "subcategory-id": "62cd9aae53f5fe49376b9b31",
+                "subcategory-title": "SOLIDITY",
+                "subcategory-url": "https://www.ineuron.ai/category/SOLIDITY"
+            },
+            {
+                "subcategory-no": 4,
+                "subcategory-id": "62cd9ab853f5fed1066b9b32",
+                "subcategory-title": "WEB 3.0",
+                "subcategory-url": "https://www.ineuron.ai/category/WEB-3.0"
+            },
+            {
+                "subcategory-no": 5,
+                "subcategory-id": "62cd9ac353f5fef6a76b9b33",
+                "subcategory-title": "BLOCKCHAIN PROJECT",
+                "subcategory-url": "https://www.ineuron.ai/category/BLOCKCHAIN-PROJECT"
+            },
+            {
+                "subcategory-no": 6,
+                "subcategory-id": "62cd9acc53f5fe45046b9b34",
+                "subcategory-title": "BLOCKCHAIN INTERVIEW PREPARATION",
+                "subcategory-url": "https://www.ineuron.ai/category/BLOCKCHAIN-INTERVIEW-PREPARATION"
+            }
+        ]
+    },
+    {
+        "category-number": 7,
+        "category-id": "62cd9b1b53f5fe033b6b9b35",
+        "category-title": "PROGRAMMING",
+        "category-url": "https://www.ineuron.ai/category/PROGRAMMING",
+        "course-subcategory": [
+            {
+                "subcategory-no": 1,
+                "subcategory-id": "62cd9b4c53f5fe6d836b9b36",
+                "subcategory-title": "JAVA",
+                "subcategory-url": "https://www.ineuron.ai/category/JAVA"
+            },
+            {
+                "subcategory-no": 2,
+                "subcategory-id": "62cd9b4f53f5fe2d3e6b9b37",
+                "subcategory-title": "C",
+                "subcategory-url": "https://www.ineuron.ai/category/C"
+            },
+            {
+                "subcategory-no": 3,
+                "subcategory-id": "62cd9b5153f5fe0f306b9b38",
+                "subcategory-title": "C++",
+                "subcategory-url": "https://www.ineuron.ai/category/C++"
+            },
+            {
+                "subcategory-no": 4,
+                "subcategory-id": "62cd9bde53f5fec28a6b9b39",
+                "subcategory-title": "C Sharp",
+                "subcategory-url": "https://www.ineuron.ai/category/C-Sharp"
+            },
+            {
+                "subcategory-no": 5,
+                "subcategory-id": "62cd9be653f5fe10fe6b9b3a",
+                "subcategory-title": "GOLANG",
+                "subcategory-url": "https://www.ineuron.ai/category/GOLANG"
+            },
+            {
+                "subcategory-no": 6,
+                "subcategory-id": "62cd9bec53f5fe46b86b9b3b",
+                "subcategory-title": "PYTHON",
+                "subcategory-url": "https://www.ineuron.ai/category/PYTHON"
+            },
+            {
+                "subcategory-no": 7,
+                "subcategory-id": "62cd9bef53f5fe78f56b9b3c",
+                "subcategory-title": "RUBY AND RAILS",
+                "subcategory-url": "https://www.ineuron.ai/category/RUBY-AND-RAILS"
+            },
+            {
+                "subcategory-no": 8,
+                "subcategory-id": "62cd9bf353f5fe07e36b9b3d",
+                "subcategory-title": "SHELL SCRIPTING",
+                "subcategory-url": "https://www.ineuron.ai/category/SHELL-SCRIPTING"
+            },
+            {
+                "subcategory-no": 9,
+                "subcategory-id": "62cd9bf653f5fe862e6b9b3e",
+                "subcategory-title": "SCALA",
+                "subcategory-url": "https://www.ineuron.ai/category/SCALA"
+            },
+            {
+                "subcategory-no": 10,
+                "subcategory-id": "62cd9bfa53f5fe1a086b9b3f",
+                "subcategory-title": "R",
+                "subcategory-url": "https://www.ineuron.ai/category/R"
+            },
+            {
+                "subcategory-no": 11,
+                "subcategory-id": "62cd9c0153f5fe48466b9b40",
+                "subcategory-title": "JULIA",
+                "subcategory-url": "https://www.ineuron.ai/category/JULIA"
+            },
+            {
+                "subcategory-no": 12,
+                "subcategory-id": "62cd9c0353f5fe4a8e6b9b41",
+                "subcategory-title": "LATEX",
+                "subcategory-url": "https://www.ineuron.ai/category/LATEX"
+            },
+            {
+                "subcategory-no": 13,
+                "subcategory-id": "62cd9c0453f5fe0ee96b9b42",
+                "subcategory-title": "MATLAB",
+                "subcategory-url": "https://www.ineuron.ai/category/MATLAB"
+            },
+            {
+                "subcategory-no": 14,
+                "subcategory-id": "62cd9c0553f5fec6746b9b43",
+                "subcategory-title": "SPRING BOOT",
+                "subcategory-url": "https://www.ineuron.ai/category/SPRING-BOOT"
+            },
+            {
+                "subcategory-no": 15,
+                "subcategory-id": "62cd9c0653f5fe4c316b9b44",
+                "subcategory-title": "SAS",
+                "subcategory-url": "https://www.ineuron.ai/category/SAS"
+            },
+            {
+                "subcategory-no": 16,
+                "subcategory-id": "62cd9c0753f5fe279a6b9b45",
+                "subcategory-title": "API",
+                "subcategory-url": "https://www.ineuron.ai/category/API"
+            }
+        ]
+    },
+    {
+        "category-number": 8,
+        "category-id": "62cd9c2453f5fedece6b9b46",
+        "category-title": "CYBER SECURITY",
+        "category-url": "https://www.ineuron.ai/category/CYBER-SECURITY",
+        "course-subcategory": [
+            {
+                "subcategory-no": 1,
+                "subcategory-id": "62cd9c5e53f5fed0706b9b47",
+                "subcategory-title": "CYBERSECURITY MASTERS",
+                "subcategory-url": "https://www.ineuron.ai/category/CYBERSECURITY-MASTERS"
+            },
+            {
+                "subcategory-no": 2,
+                "subcategory-id": "62cd9c6f53f5fe57ee6b9b49",
+                "subcategory-title": "CYBERSECURITY INTERVIEW PREPARATION",
+                "subcategory-url": "https://www.ineuron.ai/category/CYBERSECURITY-INTERVIEW-PREPARATION"
+            },
+            {
+                "subcategory-no": 3,
+                "subcategory-id": "62cd9c7253f5fe56cf6b9b4a",
+                "subcategory-title": "CYBERSECURITY PROJECT",
+                "subcategory-url": "https://www.ineuron.ai/category/CYBERSECURITY-PROJECT"
+            }
+        ]
+    },
+    {
+        "category-number": 9,
+        "category-id": "62cd9c8a53f5fea2fc6b9b4b",
+        "category-title": "TESTING",
+        "category-url": "https://www.ineuron.ai/category/TESTING",
+        "course-subcategory": [
+            {
+                "subcategory-no": 1,
+                "subcategory-id": "62cd9cc053f5fe1b546b9b4c",
+                "subcategory-title": "AUTOMATION TESTING",
+                "subcategory-url": "https://www.ineuron.ai/category/AUTOMATION-TESTING"
+            },
+            {
+                "subcategory-no": 2,
+                "subcategory-id": "62cd9cc353f5fe55c06b9b4d",
+                "subcategory-title": "MANUAL TESTING",
+                "subcategory-url": "https://www.ineuron.ai/category/MANUAL-TESTING"
+            },
+            {
+                "subcategory-no": 3,
+                "subcategory-id": "62cd9cc553f5fe28566b9b4e",
+                "subcategory-title": "TESTING INTERVIEW PREPARATION",
+                "subcategory-url": "https://www.ineuron.ai/category/TESTING-INTERVIEW-PREPARATION"
+            },
+            {
+                "subcategory-no": 4,
+                "subcategory-id": "62cd9cc853f5fe1c0e6b9b4f",
+                "subcategory-title": "TESTING PROJECT",
+                "subcategory-url": "https://www.ineuron.ai/category/TESTING-PROJECT"
+            }
+        ]
+    },
+    {
+        "category-number": 10,
+        "category-id": "62cd9cf353f5fe408c6b9b50",
+        "category-title": "DIGITAL MARKETING",
+        "category-url": "https://www.ineuron.ai/category/DIGITAL-MARKETING",
+        "course-subcategory": [
+            {
+                "subcategory-no": 1,
+                "subcategory-id": "62cd9d5753f5fe2dd66b9b51",
+                "subcategory-title": "DIGITAL MARKETING MASTERS",
+                "subcategory-url": "https://www.ineuron.ai/category/DIGITAL-MARKETING-MASTERS"
+            },
+            {
+                "subcategory-no": 2,
+                "subcategory-id": "62cd9d5953f5fe26466b9b52",
+                "subcategory-title": "EMAIL MARKETING",
+                "subcategory-url": "https://www.ineuron.ai/category/EMAIL-MARKETING"
+            },
+            {
+                "subcategory-no": 3,
+                "subcategory-id": "62cd9d5b53f5fee1306b9b53",
+                "subcategory-title": "SEO",
+                "subcategory-url": "https://www.ineuron.ai/category/SEO"
+            },
+            {
+                "subcategory-no": 4,
+                "subcategory-id": "62cd9d5e53f5feeeaf6b9b54",
+                "subcategory-title": "YOUTUBE MARKETING",
+                "subcategory-url": "https://www.ineuron.ai/category/YOUTUBE-MARKETING"
+            },
+            {
+                "subcategory-no": 5,
+                "subcategory-id": "62cd9d6253f5fe14656b9b55",
+                "subcategory-title": "GOOGLE ADS",
+                "subcategory-url": "https://www.ineuron.ai/category/GOOGLE-ADS"
+            },
+            {
+                "subcategory-no": 6,
+                "subcategory-id": "62cd9d6653f5fef9456b9b56",
+                "subcategory-title": "FACEBOOK MARKETING",
+                "subcategory-url": "https://www.ineuron.ai/category/FACEBOOK-MARKETING"
+            },
+            {
+                "subcategory-no": 7,
+                "subcategory-id": "62cd9d6b53f5fe58916b9b57",
+                "subcategory-title": "INSTAGRAM MARKETING",
+                "subcategory-url": "https://www.ineuron.ai/category/INSTAGRAM-MARKETING"
+            },
+            {
+                "subcategory-no": 8,
+                "subcategory-id": "62cd9d6f53f5fe7d206b9b58",
+                "subcategory-title": "LINKEDIN MARKETING",
+                "subcategory-url": "https://www.ineuron.ai/category/LINKEDIN-MARKETING"
+            },
+            {
+                "subcategory-no": 9,
+                "subcategory-id": "62cd9d7553f5fe61a66b9b59",
+                "subcategory-title": "DIGITAL MARKETING PROJECT",
+                "subcategory-url": "https://www.ineuron.ai/category/DIGITAL-MARKETING-PROJECT"
+            },
+            {
+                "subcategory-no": 10,
+                "subcategory-id": "62cd9d7953f5fec0d86b9b5a",
+                "subcategory-title": "DIGITAL MARKETING INTERVIEW",
+                "subcategory-url": "https://www.ineuron.ai/category/DIGITAL-MARKETING-INTERVIEW"
+            }
+        ]
+    },
+    {
+        "category-number": 11,
+        "category-id": "62cd9db453f5fe00316b9b5b",
+        "category-title": "CLOUD",
+        "category-url": "https://www.ineuron.ai/category/CLOUD",
+        "course-subcategory": [
+            {
+                "subcategory-no": 1,
+                "subcategory-id": "62cd9e0a53f5fe84f96b9b5f",
+                "subcategory-title": "AWS",
+                "subcategory-url": "https://www.ineuron.ai/category/AWS"
+            },
+            {
+                "subcategory-no": 2,
+                "subcategory-id": "62cd9e0c53f5fe4cd46b9b60",
+                "subcategory-title": "AZURE",
+                "subcategory-url": "https://www.ineuron.ai/category/AZURE"
+            },
+            {
+                "subcategory-no": 3,
+                "subcategory-id": "62cd9e0f53f5fe9c566b9b61",
+                "subcategory-title": "GCP",
+                "subcategory-url": "https://www.ineuron.ai/category/GCP"
+            },
+            {
+                "subcategory-no": 4,
+                "subcategory-id": "62cd9e1353f5feaa606b9b62",
+                "subcategory-title": "AWS INTERVIEW PREPARATION",
+                "subcategory-url": "https://www.ineuron.ai/category/AWS-INTERVIEW-PREPARATION"
+            },
+            {
+                "subcategory-no": 5,
+                "subcategory-id": "62cd9e1753f5fe14226b9b63",
+                "subcategory-title": "AWS PROJECT",
+                "subcategory-url": "https://www.ineuron.ai/category/AWS-PROJECT"
+            },
+            {
+                "subcategory-no": 6,
+                "subcategory-id": "62cd9e1c53f5fe56456b9b65",
+                "subcategory-title": "AZURE INTERVIEW PREPARATION",
+                "subcategory-url": "https://www.ineuron.ai/category/AZURE-INTERVIEW-PREPARATION"
+            },
+            {
+                "subcategory-no": 7,
+                "subcategory-id": "62cd9e2053f5fe68a36b9b66",
+                "subcategory-title": "AZURE PROJECT",
+                "subcategory-url": "https://www.ineuron.ai/category/AZURE-PROJECT"
+            },
+            {
+                "subcategory-no": 8,
+                "subcategory-id": "62cd9e2453f5fe18466b9b67",
+                "subcategory-title": "GCP INTERVIEW PREPARATION",
+                "subcategory-url": "https://www.ineuron.ai/category/GCP-INTERVIEW-PREPARATION"
+            },
+            {
+                "subcategory-no": 9,
+                "subcategory-id": "62cd9e2953f5fec0876b9b69",
+                "subcategory-title": "GCP PROJECT",
+                "subcategory-url": "https://www.ineuron.ai/category/GCP-PROJECT"
+            }
+        ]
+    },
+    {
+        "category-number": 12,
+        "category-id": "62cd9e4153f5feeeec6b9b6a",
+        "category-title": "DEVOPS",
+        "category-url": "https://www.ineuron.ai/category/DEVOPS",
+        "course-subcategory": [
+            {
+                "subcategory-no": 1,
+                "subcategory-id": "62cd9f4053f5fe399a6b9b6b",
+                "subcategory-title": "DEVOPS MASTERS",
+                "subcategory-url": "https://www.ineuron.ai/category/DEVOPS-MASTERS"
+            },
+            {
+                "subcategory-no": 2,
+                "subcategory-id": "62cd9f4453f5fe20e56b9b6c",
+                "subcategory-title": "DOCKER",
+                "subcategory-url": "https://www.ineuron.ai/category/DOCKER"
+            },
+            {
+                "subcategory-no": 3,
+                "subcategory-id": "62cd9f4753f5fe06e46b9b6d",
+                "subcategory-title": "KUBERNETES",
+                "subcategory-url": "https://www.ineuron.ai/category/KUBERNETES"
+            },
+            {
+                "subcategory-no": 4,
+                "subcategory-id": "62cd9f4b53f5fe33e26b9b6e",
+                "subcategory-title": "JENKINS",
+                "subcategory-url": "https://www.ineuron.ai/category/JENKINS"
+            },
+            {
+                "subcategory-no": 5,
+                "subcategory-id": "62cd9f4e53f5fe168e6b9b6f",
+                "subcategory-title": "ANSIBLE",
+                "subcategory-url": "https://www.ineuron.ai/category/ANSIBLE"
+            },
+            {
+                "subcategory-no": 6,
+                "subcategory-id": "62cd9f5253f5feec166b9b70",
+                "subcategory-title": "LINUX",
+                "subcategory-url": "https://www.ineuron.ai/category/LINUX"
+            },
+            {
+                "subcategory-no": 7,
+                "subcategory-id": "62cd9f5653f5fe51d96b9b71",
+                "subcategory-title": "GIT",
+                "subcategory-url": "https://www.ineuron.ai/category/GIT"
+            },
+            {
+                "subcategory-no": 8,
+                "subcategory-id": "62cd9f5a53f5fe83166b9b72",
+                "subcategory-title": "TERRAFORM",
+                "subcategory-url": "https://www.ineuron.ai/category/TERRAFORM"
+            },
+            {
+                "subcategory-no": 9,
+                "subcategory-id": "62cd9f5e53f5fe44616b9b73",
+                "subcategory-title": "DEVOPS INTERVIEW",
+                "subcategory-url": "https://www.ineuron.ai/category/DEVOPS-INTERVIEW"
+            },
+            {
+                "subcategory-no": 10,
+                "subcategory-id": "62cd9f6253f5fe24756b9b74",
+                "subcategory-title": "DEVOPS PROJECTS",
+                "subcategory-url": "https://www.ineuron.ai/category/DEVOPS-PROJECTS"
+            }
+        ]
+    },
+    {
+        "category-number": 13,
+        "category-id": "62cd9f7a53f5fe027b6b9b75",
+        "category-title": "IOT",
+        "category-url": "https://www.ineuron.ai/category/IOT",
+        "course-subcategory": [
+            {
+                "subcategory-no": 1,
+                "subcategory-id": "62cd9fa453f5fefcb26b9b76",
+                "subcategory-title": "IOT MASTERS",
+                "subcategory-url": "https://www.ineuron.ai/category/IOT-MASTERS"
+            },
+            {
+                "subcategory-no": 2,
+                "subcategory-id": "62cd9fa653f5fedeee6b9b77",
+                "subcategory-title": "IOT INTERVIEW",
+                "subcategory-url": "https://www.ineuron.ai/category/IOT-INTERVIEW"
+            },
+            {
+                "subcategory-no": 3,
+                "subcategory-id": "62cd9faa53f5fe7b0e6b9b78",
+                "subcategory-title": "IOT PROJECTS",
+                "subcategory-url": "https://www.ineuron.ai/category/IOT-PROJECTS"
+            }
+        ]
+    },
+    {
+        "category-number": 14,
+        "category-id": "62cd9fd053f5fef18e6b9b79",
+        "category-title": "RPA",
+        "category-url": "https://www.ineuron.ai/category/RPA",
+        "course-subcategory": [
+            {
+                "subcategory-no": 1,
+                "subcategory-id": "62cda00353f5fe359a6b9b7a",
+                "subcategory-title": "UIPATH",
+                "subcategory-url": "https://www.ineuron.ai/category/UIPATH"
+            },
+            {
+                "subcategory-no": 2,
+                "subcategory-id": "62cda00653f5fe34ca6b9b7b",
+                "subcategory-title": "RPA INTERVIEW",
+                "subcategory-url": "https://www.ineuron.ai/category/RPA-INTERVIEW"
+            },
+            {
+                "subcategory-no": 3,
+                "subcategory-id": "62cda00953f5feda7d6b9b7c",
+                "subcategory-title": "RPA PROJECTS",
+                "subcategory-url": "https://www.ineuron.ai/category/RPA-PROJECTS"
+            },
+            {
+                "subcategory-no": 4,
+                "subcategory-id": "62cda00d53f5fe0aa36b9b7d",
+                "subcategory-title": "RPA MASTERS",
+                "subcategory-url": "https://www.ineuron.ai/category/RPA-MASTERS"
+            }
+        ]
+    },
+    {
+        "category-number": 15,
+        "category-id": "62cda02653f5fe516c6b9b7e",
+        "category-title": "AR VR",
+        "category-url": "https://www.ineuron.ai/category/AR-VR",
+        "course-subcategory": [
+            {
+                "subcategory-no": 1,
+                "subcategory-id": "62cda04d53f5fed7516b9b7f",
+                "subcategory-title": "SPARK AR",
+                "subcategory-url": "https://www.ineuron.ai/category/SPARK-AR"
+            },
+            {
+                "subcategory-no": 2,
+                "subcategory-id": "62cda05253f5fe29d56b9b80",
+                "subcategory-title": "AR VR INTERVIEW",
+                "subcategory-url": "https://www.ineuron.ai/category/AR-VR-INTERVIEW"
+            },
+            {
+                "subcategory-no": 3,
+                "subcategory-id": "62cda05553f5fe4bae6b9b81",
+                "subcategory-title": "AR VR PROJECTS",
+                "subcategory-url": "https://www.ineuron.ai/category/AR-VR-PROJECTS"
+            }
+        ]
+    },
+    {
+        "category-number": 16,
+        "category-id": "62cda07353f5fefc836b9b82",
+        "category-title": "SALESFORCE",
+        "category-url": "https://www.ineuron.ai/category/SALESFORCE",
+        "course-subcategory": [
+            {
+                "subcategory-no": 1,
+                "subcategory-id": "62cda09353f5fe09296b9b83",
+                "subcategory-title": "SALESFORCE ADMINISTRATOR",
+                "subcategory-url": "https://www.ineuron.ai/category/SALESFORCE-ADMINISTRATOR"
+            },
+            {
+                "subcategory-no": 2,
+                "subcategory-id": "62cda09953f5fec8be6b9b84",
+                "subcategory-title": "SALESFORCE DEVELOPER",
+                "subcategory-url": "https://www.ineuron.ai/category/SALESFORCE-DEVELOPER"
+            }
+        ]
+    },
+    {
+        "category-number": 17,
+        "category-id": "62cda0bd53f5fe0d636b9b85",
+        "category-title": "DATA STRUCTURE",
+        "category-url": "https://www.ineuron.ai/category/DATA-STRUCTURE",
+        "course-subcategory": [
+            {
+                "subcategory-no": 1,
+                "subcategory-id": "62cda11553f5fe15ec6b9b86",
+                "subcategory-title": "DSA MASTERS",
+                "subcategory-url": "https://www.ineuron.ai/category/DSA-MASTERS"
+            },
+            {
+                "subcategory-no": 2,
+                "subcategory-id": "62cda11e53f5fe7a386b9b87",
+                "subcategory-title": "DSA WITH PYTHON",
+                "subcategory-url": "https://www.ineuron.ai/category/DSA-WITH-PYTHON"
+            },
+            {
+                "subcategory-no": 3,
+                "subcategory-id": "62cda12053f5fefad66b9b88",
+                "subcategory-title": "DSA WITH C++",
+                "subcategory-url": "https://www.ineuron.ai/category/DSA-WITH-C++"
+            },
+            {
+                "subcategory-no": 4,
+                "subcategory-id": "62cda12453f5fe79776b9b89",
+                "subcategory-title": "DSA WITH JAVA",
+                "subcategory-url": "https://www.ineuron.ai/category/DSA-WITH-JAVA"
+            },
+            {
+                "subcategory-no": 5,
+                "subcategory-id": "62cda12a53f5fe299f6b9b8a",
+                "subcategory-title": "DSA WITH JAVASCRIPT",
+                "subcategory-url": "https://www.ineuron.ai/category/DSA-WITH-JAVASCRIPT"
+            },
+            {
+                "subcategory-no": 6,
+                "subcategory-id": "62cda12f53f5fef0be6b9b8b",
+                "subcategory-title": "DSA INTERVIEW",
+                "subcategory-url": "https://www.ineuron.ai/category/DSA-INTERVIEW"
+            },
+            {
+                "subcategory-no": 7,
+                "subcategory-id": "62cda13453f5fe428a6b9b8c",
+                "subcategory-title": "ADVANCED DSA",
+                "subcategory-url": "https://www.ineuron.ai/category/ADVANCED-DSA"
+            },
+            {
+                "subcategory-no": 8,
+                "subcategory-id": "62cda13853f5fe6e156b9b8d",
+                "subcategory-title": "MAANG INTERVIEW PREPARATION",
+                "subcategory-url": "https://www.ineuron.ai/category/MAANG-INTERVIEW-PREPARATION"
+            }
+        ]
+    },
+    {
+        "category-number": 18,
+        "category-id": "62cda14c53f5fe15046b9b8e",
+        "category-title": "SYSTEM DESIGN",
+        "category-url": "https://www.ineuron.ai/category/SYSTEM-DESIGN",
+        "course-subcategory": [
+            {
+                "subcategory-no": 1,
+                "subcategory-id": "62cda16c53f5fe9b646b9b8f",
+                "subcategory-title": "SYSTEM DESIGN MASTERS",
+                "subcategory-url": "https://www.ineuron.ai/category/SYSTEM-DESIGN-MASTERS"
+            },
+            {
+                "subcategory-no": 2,
+                "subcategory-id": "62cda19553f5fe8cf86b9b90",
+                "subcategory-title": "SYSTEM DESIGN",
+                "subcategory-url": "https://www.ineuron.ai/category/SYSTEM-DESIGN"
+            },
+            {
+                "subcategory-no": 3,
+                "subcategory-id": "62cda19d53f5fe12be6b9b91",
+                "subcategory-title": "DESIGN PATTERNS",
+                "subcategory-url": "https://www.ineuron.ai/category/DESIGN-PATTERNS"
+            },
+            {
+                "subcategory-no": 4,
+                "subcategory-id": "62cda1a153f5fe80766b9b92",
+                "subcategory-title": "SYSTEM DESIGN INTERVIEW QUESTIONS",
+                "subcategory-url": "https://www.ineuron.ai/category/SYSTEM-DESIGN-INTERVIEW-QUESTIONS"
+            },
+            {
+                "subcategory-no": 5,
+                "subcategory-id": "62cda1a653f5fe7f906b9b93",
+                "subcategory-title": "DESIGN PATTERNS INTERVIEW QUESTIONS",
+                "subcategory-url": "https://www.ineuron.ai/category/DESIGN-PATTERNS-INTERVIEW-QUESTIONS"
+            }
+        ]
+    },
+    {
+        "category-number": 19,
+        "category-id": "62cda1cc53f5fe24f86b9b94",
+        "category-title": "DATABASE",
+        "category-url": "https://www.ineuron.ai/category/DATABASE",
+        "course-subcategory": [
+            {
+                "subcategory-no": 1,
+                "subcategory-id": "62cda22353f5fe368e6b9b95",
+                "subcategory-title": "MYSQL",
+                "subcategory-url": "https://www.ineuron.ai/category/MYSQL"
+            },
+            {
+                "subcategory-no": 2,
+                "subcategory-id": "62cda22853f5fe13db6b9b96",
+                "subcategory-title": "MSSQL",
+                "subcategory-url": "https://www.ineuron.ai/category/MSSQL"
+            },
+            {
+                "subcategory-no": 3,
+                "subcategory-id": "62cda22c53f5fee88e6b9b97",
+                "subcategory-title": "MONGODB",
+                "subcategory-url": "https://www.ineuron.ai/category/MONGODB"
+            },
+            {
+                "subcategory-no": 4,
+                "subcategory-id": "62cda23253f5fe577c6b9b98",
+                "subcategory-title": "CASSANDRA",
+                "subcategory-url": "https://www.ineuron.ai/category/CASSANDRA"
+            },
+            {
+                "subcategory-no": 5,
+                "subcategory-id": "62cda23753f5fe3d426b9b99",
+                "subcategory-title": "HBASE",
+                "subcategory-url": "https://www.ineuron.ai/category/HBASE"
+            },
+            {
+                "subcategory-no": 6,
+                "subcategory-id": "62cda23d53f5fe40a86b9b9a",
+                "subcategory-title": "NEO4J",
+                "subcategory-url": "https://www.ineuron.ai/category/NEO4J"
+            },
+            {
+                "subcategory-no": 7,
+                "subcategory-id": "62cda24353f5fe071b6b9b9b",
+                "subcategory-title": "ORACLE",
+                "subcategory-url": "https://www.ineuron.ai/category/ORACLE"
+            },
+            {
+                "subcategory-no": 8,
+                "subcategory-id": "62cda24853f5fe52066b9b9c",
+                "subcategory-title": "GRAPHQL",
+                "subcategory-url": "https://www.ineuron.ai/category/GRAPHQL"
+            },
+            {
+                "subcategory-no": 9,
+                "subcategory-id": "62cda24c53f5fe6c866b9b9d",
+                "subcategory-title": "POSTGRESQL",
+                "subcategory-url": "https://www.ineuron.ai/category/POSTGRESQL"
+            }
+        ]
+    },
+    {
+        "category-number": 20,
+        "category-id": "62cda26553f5fe5dbc6b9b9e",
+        "category-title": "APTITUDE",
+        "category-url": "https://www.ineuron.ai/category/APTITUDE",
+        "course-subcategory": [
+            {
+                "subcategory-no": 1,
+                "subcategory-id": "62cda27653f5feef846b9b9f",
+                "subcategory-title": "APTITUDE",
+                "subcategory-url": "https://www.ineuron.ai/category/APTITUDE"
+            }
+        ]
+    },
+    {
+        "category-number": 21,
+        "category-id": "62cda29353f5fe0b6b6b9ba0",
+        "category-title": "RESUME",
+        "category-url": "https://www.ineuron.ai/category/RESUME",
+        "course-subcategory": [
+            {
+                "subcategory-no": 1,
+                "subcategory-id": "62cda2e153f5fec4246b9ba1",
+                "subcategory-title": "RESUME DATA SCIENCE",
+                "subcategory-url": "https://www.ineuron.ai/category/RESUME-DATA-SCIENCE"
+            },
+            {
+                "subcategory-no": 2,
+                "subcategory-id": "62cda2ed53f5fe74056b9ba2",
+                "subcategory-title": "RESUME BIG DATA",
+                "subcategory-url": "https://www.ineuron.ai/category/RESUME-BIG-DATA"
+            },
+            {
+                "subcategory-no": 3,
+                "subcategory-id": "62cda2f753f5feeb906b9ba3",
+                "subcategory-title": "RESUME DATA ANALYTICS",
+                "subcategory-url": "https://www.ineuron.ai/category/RESUME-DATA-ANALYTICS"
+            },
+            {
+                "subcategory-no": 4,
+                "subcategory-id": "62cda30153f5fe76006b9ba4",
+                "subcategory-title": "RESUME WEB DEVELOPMENT",
+                "subcategory-url": "https://www.ineuron.ai/category/RESUME-WEB-DEVELOPMENT"
+            },
+            {
+                "subcategory-no": 5,
+                "subcategory-id": "62cda30b53f5fe2cff6b9ba5",
+                "subcategory-title": "RESUME MOBILE DEVELOPMENT",
+                "subcategory-url": "https://www.ineuron.ai/category/RESUME-MOBILE-DEVELOPMENT"
+            },
+            {
+                "subcategory-no": 6,
+                "subcategory-id": "62cda31a53f5fe534c6b9ba6",
+                "subcategory-title": "RESUME BLOCKCHAIN",
+                "subcategory-url": "https://www.ineuron.ai/category/RESUME-BLOCKCHAIN"
+            },
+            {
+                "subcategory-no": 7,
+                "subcategory-id": "62cda33253f5fe525a6b9ba7",
+                "subcategory-title": "RESUME PROGRAMMING",
+                "subcategory-url": "https://www.ineuron.ai/category/RESUME-PROGRAMMING"
+            },
+            {
+                "subcategory-no": 8,
+                "subcategory-id": "62cda33e53f5fe38916b9ba8",
+                "subcategory-title": "RESUME CYBERSECUTIRY",
+                "subcategory-url": "https://www.ineuron.ai/category/RESUME-CYBERSECUTIRY"
+            },
+            {
+                "subcategory-no": 9,
+                "subcategory-id": "62cda34d53f5fe1e406b9ba9",
+                "subcategory-title": "RESUME TESTING",
+                "subcategory-url": "https://www.ineuron.ai/category/RESUME-TESTING"
+            },
+            {
+                "subcategory-no": 10,
+                "subcategory-id": "62cda35453f5fe05926b9baa",
+                "subcategory-title": "RESUME DIGITAL MARKETING",
+                "subcategory-url": "https://www.ineuron.ai/category/RESUME-DIGITAL-MARKETING"
+            },
+            {
+                "subcategory-no": 11,
+                "subcategory-id": "62cda35f53f5fe6b556b9bab",
+                "subcategory-title": "RESUME CLOUD",
+                "subcategory-url": "https://www.ineuron.ai/category/RESUME-CLOUD"
+            },
+            {
+                "subcategory-no": 12,
+                "subcategory-id": "62cda36853f5fe1fe76b9bac",
+                "subcategory-title": "RESUME DEVOPS",
+                "subcategory-url": "https://www.ineuron.ai/category/RESUME-DEVOPS"
+            },
+            {
+                "subcategory-no": 13,
+                "subcategory-id": "62cda37153f5fe156b6b9bad",
+                "subcategory-title": "RESUME IOT",
+                "subcategory-url": "https://www.ineuron.ai/category/RESUME-IOT"
+            },
+            {
+                "subcategory-no": 14,
+                "subcategory-id": "62cda38e53f5fe5f946b9bae",
+                "subcategory-title": "RESUME SALESFORCE",
+                "subcategory-url": "https://www.ineuron.ai/category/RESUME-SALESFORCE"
+            }
+        ]
+    },
+    {
+        "category-number": 22,
+        "category-id": "62cda3ad53f5fef61e6b9baf",
+        "category-title": "K12",
+        "category-url": "https://www.ineuron.ai/category/K12",
+        "course-subcategory": [
+            {
+                "subcategory-no": 1,
+                "subcategory-id": "62cda3e553f5febceb6b9bb0",
+                "subcategory-title": "CLASS6",
+                "subcategory-url": "https://www.ineuron.ai/category/CLASS6"
+            },
+            {
+                "subcategory-no": 2,
+                "subcategory-id": "62cda3ea53f5fe40776b9bb1",
+                "subcategory-title": "CLASS7",
+                "subcategory-url": "https://www.ineuron.ai/category/CLASS7"
+            },
+            {
+                "subcategory-no": 3,
+                "subcategory-id": "62cda3ef53f5fe87cc6b9bb2",
+                "subcategory-title": "CLASS8",
+                "subcategory-url": "https://www.ineuron.ai/category/CLASS8"
+            },
+            {
+                "subcategory-no": 4,
+                "subcategory-id": "62cda3f653f5fee9276b9bb3",
+                "subcategory-title": "CLASS9",
+                "subcategory-url": "https://www.ineuron.ai/category/CLASS9"
+            },
+            {
+                "subcategory-no": 5,
+                "subcategory-id": "62cda3fb53f5fe04116b9bb4",
+                "subcategory-title": "CLASS10",
+                "subcategory-url": "https://www.ineuron.ai/category/CLASS10"
+            }
+        ]
+    }
+]

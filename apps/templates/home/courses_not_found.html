@@ -1,0 +1,31 @@
+{% extends 'layouts/base.html' %}
+
+{% block content %}
+
+<div class="auth-wrapper">
+    <div class="auth-content">
+        <div class="auth-bg">
+            <span class="r"></span>
+            <span class="r s"></span>
+            <span class="r s"></span>
+            <span class="r"></span>
+        </div>
+        <div class="card shadow-lg">
+            <div class="card-body text-center">
+                <div class="mb-4">
+                    <i class="feather x-circle"></i>
+                </div>
+                <h3 class="mb-4">Course not avaliable for the selected Category</h3>
+
+                <br />
+
+                <span class="mb-0 text-muted">
+                    Course not found - <a href="/">Home</a> 
+                </span>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+{% endblock %}
